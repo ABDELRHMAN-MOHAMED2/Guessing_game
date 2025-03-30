@@ -30,8 +30,3 @@ This is a simple **Guessing Number Game** built using **C++**. The program gener
 ✅ **Tracks number of attempts** and displays them at the end  
 
 ---
-
-## ▶ How to Run the Program  
-1. **Compile the code** using a C++ compiler (e.g., g++):  
-   ```sh
-   g++ guessing_game.cpp -o guessing_game
