@@ -43,12 +43,12 @@ int main()
      
      else if (usernum> random_num)
      {
-       cout << "the number you enter high , try again : " ;
+       cout << "the number you entered high , try again : " ;
        count++;
      }
      else if (usernum<random_num)
      {
-       cout << "the number you enter low , try again : " ;
+       cout << "the number you entered low , try again : " ;
        count++;
      }
      
