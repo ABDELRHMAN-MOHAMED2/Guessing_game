@@ -1,3 +1,10 @@
+//guessing number game  
+ 
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
+using namespace std;
+
 int main()
 {
    int random_num;
